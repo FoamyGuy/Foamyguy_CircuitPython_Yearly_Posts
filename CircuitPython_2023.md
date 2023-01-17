@@ -56,4 +56,7 @@ release is out and stable. The displayio API for showing things
 has changed and there will be lots of code that need a minor
 update for it. I'm sure there are some I'm not thinking of, but
 the other one that comes to mind is starting the shift away from
-settings.py to using the toml file instead. 
+settings.py to using the toml file instead.
+
+Overall I'm looking forward to another great year in the CircuitPython world!
+Tim
